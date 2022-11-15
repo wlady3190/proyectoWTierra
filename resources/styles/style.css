@@ -1,0 +1,91 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+}
+.logo{
+    width: 6%;
+    height: auto;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.form-submit{
+
+    margin: auto;
+    /* width: 50%; */
+}
+textarea{
+    resize: none;
+}
+
+.bg-1{
+    /* background-image:url(); */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+    
+}
+.main-background {
+    background-image: url(../assets/fondo4.webp);
+    height: 100vh;
+
+}
+.bg-2{
+    width: 100%;
+    
+}
+@media (min-width: 768px) {
+    
+    .bg-2{
+        height:100vh;
+        
+    }
+}
+.bg-3{
+    height: 100%;
+    background: linear-gradient(90deg, yellow 10%, orange 90%);
+   
+    
+
+}
+
+.text-1-container{
+    width: 15vw;
+    height: auto;
+    top: 12%;
+    left: 5%;
+    
+}
+
+
+.text-2-container{
+    width: 30%;
+    height: auto;
+    top: 30%;
+    left: 5%;
+   
+}
+img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    transform: scale(1.2);
+}
+
+
+
+.nav-item{
+    padding-left: 2rem;
+}
+
+
+.cutom-class1 {
+    font-weight: 600;
+}
