@@ -89,3 +89,8 @@ img{
 .cutom-class1 {
     font-weight: 600;
 }
+.list-group-item:hover{
+    cursor: pointer;
+    background-color: #0d6efd;
+    color: white;
+}
