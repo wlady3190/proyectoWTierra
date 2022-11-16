@@ -76,7 +76,7 @@ img{
     object-fit: cover;
     height: 100%;
     width: 100%;
-    transform: scale(1.2);
+
 }
 
 
@@ -86,7 +86,7 @@ img{
 }
 
 
-.cutom-class1 {
+.custom-class1 {
     font-weight: 600;
 }
 .list-group-item:hover{
